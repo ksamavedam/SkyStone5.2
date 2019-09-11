@@ -90,7 +90,7 @@ import java.util.List;
  * IMPORTANT: In order to use this OpMode, you need to obtain your own Vuforia license key as
  * is explained below.
  */
-
+// Test
 @TeleOp(name="Concept: Vuforia Rover Nav8", group ="Concept")
 
 public class MyVuforia extends LinearOpMode {
